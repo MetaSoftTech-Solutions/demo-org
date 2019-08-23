@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>SewerTelemetryData</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>SewerTelemetryData</value>
+    </caseValues>
+    <fields>
+        <label><!-- Device Serial Number --></label>
+        <name>DeviceSerialNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- Level --></label>
+        <name>Level__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

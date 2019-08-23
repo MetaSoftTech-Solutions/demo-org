@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Airports</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Airports</value>
+    </caseValues>
+    <fields>
+        <label><!-- IataCode --></label>
+        <name>IataCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- IcaoCode --></label>
+        <name>IcaoCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- Location --></label>
+        <name>Location__c</name>
+    </fields>
+    <fields>
+        <label><!-- Name --></label>
+        <name>Name__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

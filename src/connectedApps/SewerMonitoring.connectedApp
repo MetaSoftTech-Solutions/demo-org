@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>dheenu27@hotmail.com</contactEmail>
+    <label>Sewer Monitoring</label>
+    <oauthConfig>
+        <callbackUrl>https://dheenu-dev-ed.lightning.force.com/services/oauth2/callback</callbackUrl>
+        <consumerKey>3MVG9uudbyLbNPZNKQAX8uM1UD.EpSDxShrxjfjtUex7dltkIQHv8sPOYLzH2KhBO9mj9jGpIDsXAAmmReI0b</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <scopes>Full</scopes>
+    </oauthConfig>
+</ConnectedApp>
